@@ -1,2 +1,0 @@
-# NIVO-Test
-NIVO-Test
